@@ -1,0 +1,27 @@
+# This is a generated file; do not edit or check into version control.
+firebase_core=/Users/xain/development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-1.7.0/
+firebase_core_web=/Users/xain/development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-1.1.0/
+firebase_messaging=/Users/xain/development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_messaging-10.0.8/
+firebase_messaging_web=/Users/xain/development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_messaging_web-2.0.6/
+flutter_local_notifications=/Users/xain/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_local_notifications-5.0.0/
+flutter_plugin_android_lifecycle=/Users/xain/development/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_plugin_android_lifecycle-2.0.0/
+geocoding=/Users/xain/development/flutter/.pub-cache/hosted/pub.dartlang.org/geocoding-2.0.0/
+geolocator=/Users/xain/development/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator-7.0.3/
+geolocator_web=/Users/xain/development/flutter/.pub-cache/hosted/pub.dartlang.org/geolocator_web-2.0.3/
+google_maps_flutter=/Users/xain/development/flutter/.pub-cache/hosted/pub.dartlang.org/google_maps_flutter-2.0.1/
+path_provider=/Users/xain/development/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider-2.0.1/
+path_provider_linux=/Users/xain/development/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_linux-2.0.0/
+path_provider_macos=/Users/xain/development/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_macos-2.0.0/
+path_provider_windows=/Users/xain/development/flutter/.pub-cache/hosted/pub.dartlang.org/path_provider_windows-2.0.0/
+shared_preferences=/Users/xain/development/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences-2.0.5/
+shared_preferences_linux=/Users/xain/development/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_linux-2.0.0/
+shared_preferences_macos=/Users/xain/development/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_macos-2.0.0/
+shared_preferences_web=/Users/xain/development/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_web-2.0.0/
+shared_preferences_windows=/Users/xain/development/flutter/.pub-cache/hosted/pub.dartlang.org/shared_preferences_windows-2.0.0/
+url_launcher=/Users/xain/development/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher-6.0.2/
+url_launcher_linux=/Users/xain/development/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_linux-2.0.0/
+url_launcher_macos=/Users/xain/development/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_macos-2.0.0/
+url_launcher_web=/Users/xain/development/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_web-2.0.0/
+url_launcher_windows=/Users/xain/development/flutter/.pub-cache/hosted/pub.dartlang.org/url_launcher_windows-2.0.0/
+vibration=/Users/xain/development/flutter/.pub-cache/hosted/pub.dartlang.org/vibration-1.7.4-nullsafety.0/
+vibration_web=/Users/xain/development/flutter/.pub-cache/hosted/pub.dartlang.org/vibration_web-1.6.3-nullsafety.0/
