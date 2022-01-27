@@ -1,4 +1,4 @@
-package com.u6amtech.grocery_delivery_boy
+package amo.ewiglife.com
 
 import io.flutter.plugin.common.PluginRegistry
 import io.flutter.plugins.firebase.messaging.FlutterFirebaseMessagingPlugin

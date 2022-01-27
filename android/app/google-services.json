@@ -1,63 +1,41 @@
 {
   "project_info": {
-    "project_number": "250728969979",
-    "project_id": "grofresh-3986f",
-    "storage_bucket": "grofresh-3986f.appspot.com"
+    "project_number": "150344500554",
+    "project_id": "akbarimandionline-80eec",
+    "storage_bucket": "akbarimandionline-80eec.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:250728969979:android:375fde0efc7db10a75a25e",
+        "mobilesdk_app_id": "1:150344500554:android:a83982154dfad3c8e82db3",
         "android_client_info": {
-          "package_name": "com.u6amtech.flutter_grocery"
+          "package_name": "amo.ewiglife.com"
         }
       },
       "oauth_client": [
         {
-          "client_id": "250728969979-9nqsmhb458assn7q1a68cgasgg5q5mtg.apps.googleusercontent.com",
+          "client_id": "150344500554-derv31k576ac0j8k6p3aj04rc4uj9eot.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDTFm7oPur3xhZbVmCkgFkGFcR-44h6Gyo"
+          "current_key": "AIzaSyCFXlGnaglcwCbk8wDY6RSJ9rdWw812jGI"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "250728969979-9nqsmhb458assn7q1a68cgasgg5q5mtg.apps.googleusercontent.com",
+              "client_id": "150344500554-derv31k576ac0j8k6p3aj04rc4uj9eot.apps.googleusercontent.com",
               "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:250728969979:android:945c6fd7f51e95fd75a25e",
-        "android_client_info": {
-          "package_name": "com.u6amtech.grocery_delivery_boy"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "250728969979-9nqsmhb458assn7q1a68cgasgg5q5mtg.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyDTFm7oPur3xhZbVmCkgFkGFcR-44h6Gyo"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
+            },
             {
-              "client_id": "250728969979-9nqsmhb458assn7q1a68cgasgg5q5mtg.apps.googleusercontent.com",
-              "client_type": 3
+              "client_id": "150344500554-5q105ld3p2j4aanj8e4olvq32bae1l50.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "amo.ewiglife.com"
+              }
             }
           ]
         }
